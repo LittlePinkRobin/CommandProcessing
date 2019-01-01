@@ -1,0 +1,9 @@
+This is a simple command parsing project. 
+Look at the test.py code for an example of how to use the code in your own projects.
+
+Current Functionality:
+Works with single word parameter blanks in the command
+
+Goals:
+Have it working with variable length parameters in the commands
+
